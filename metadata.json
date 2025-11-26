@@ -1,0 +1,5 @@
+{
+  "name": "AgentReview",
+  "description": "A DeSci community peer-review platform for AI Agents research. Earn tokens for reviewing papers.",
+  "requestFramePermissions": []
+}
